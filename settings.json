@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "popameowham",
     "password": "",
     "type": "offline"
   },
@@ -28,14 +28,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 3,
+      "repeat-delay": 0,
       "messages": [
-        "ba nu ma lovii",
-        "salut",
-        "stai baaa!",
-        "STAI ba",
-       "sugetimi pulaaaaaaaaa",
-        "hahahahahaha sunteti prosti"
+       
        
       ]
     },
