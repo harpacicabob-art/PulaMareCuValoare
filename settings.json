@@ -28,13 +28,14 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 10,
+      "repeat-delay": 3,
       "messages": [
         "ba nu ma lovii",
         "salut",
         "stai baaa!",
         "STAI ba",
-       "ma cheama bogdan"
+       "sugetimi pulaaaaaaaaa",
+        "hahahahahaha sunteti prosti"
        
       ]
     },
