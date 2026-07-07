@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pulamarecuvaloare123.aternos.me:58675",
+    "ip": "pulamarecuvaloare123.aternos.me",
     "port": 58675,
     "version": "1.21.11"
   },
